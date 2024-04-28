@@ -6,4 +6,6 @@
 # (WP_Nested_Repeats) https://youtu.be/HgdMOTzOtaw
 # (WP_Events) https://youtu.be/2tf6qD_5VMk
 # (WP_Variables) https://youtu.be/dNPm4jD6ews
-# (Easy_Events_A_ParsonsSolution) https://youtu.be/lAyNi0Y_6IQ
+# (Easy_Events_A_ParsonsStarter) https://snap.berkeley.edu/snap/snap.html#present:Username=a5vo001&ProjectName=Easy_Events_A_ParsonsStarter
+# (Easy_Events_A_Parsons_Desired_Output) https://youtu.be/ryyYG4jQkdc
+# (Easy_Events_A_ParsonsSolution) https://snap.berkeley.edu/snap/snap.html#present:Username=a5vo001&ProjectName=Easy_Events_A_ParsonsSolution
