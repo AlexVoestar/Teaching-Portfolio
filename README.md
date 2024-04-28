@@ -6,3 +6,4 @@
 # (WP_Nested_Repeats) https://youtu.be/HgdMOTzOtaw
 # (WP_Events) https://youtu.be/2tf6qD_5VMk
 # (WP_Variables) https://youtu.be/dNPm4jD6ews
+# (Easy_Events_A_ParsonsSolution) https://youtu.be/lAyNi0Y_6IQ
