@@ -12,3 +12,4 @@
 # (WP_Conditional_Loops) https://youtu.be/wjXnPoX_AGk
 # (WP_If_Else) https://youtu.be/bokdZV2u4fo
 # (WP_Nested_If_Else) https://youtu.be/hLpu-kwGAv8
+# (WP_Compound_Conditionals) https://youtu.be/m_-wzXYhGz8
