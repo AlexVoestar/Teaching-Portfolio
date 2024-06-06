@@ -14,3 +14,4 @@
 # (WP_Nested_If_Else) https://youtu.be/hLpu-kwGAv8
 # (WP_Compound_Conditionals) https://youtu.be/m_-wzXYhGz8
 # (WP_paintPicture) https://youtu.be/bMdZ97NOf2Y
+# (WP_Lists) https://youtu.be/3xTxcbhQukQ
